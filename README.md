@@ -10,13 +10,9 @@ Stash for all things interesting.
 [Learn Angular](https://angular.io/docs/ts/latest/guide/learning-angular.html)
 [Angular Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html)
 
-## Javascript
-
-
-## Docker
-
-
 ## Github
+
+[Oh shit, git!](http://ohshitgit.com/)
 
 ### configuring proxy
 
@@ -35,6 +31,8 @@ Git checkout topic1
 Git add -A
 Git commit -m “topic 1”
 Git push
+
+git push --set-upstream origin topic1
 
 
 ## Big Data & Streaming
