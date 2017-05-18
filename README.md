@@ -18,13 +18,15 @@ Stash for all things interesting.
 
 ## Github
 
-### configuring proxy 
+### configuring proxy
+
+*can replace globa/local*
 
 git config --add --global http.proxy http://localhost:3128
 git config --add --global https.proxy http://localhost:3128
 
 git config --unset --global http.proxy
-git config --unset --global https.
+git config --unset --global https.proxy
 
 ### branching
 
