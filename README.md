@@ -1,7 +1,7 @@
 # stash
 Stash for all things interesting.
 
-[***Git***](git.md)
+[***Git Cheat Sheet***](git-cheat-sheet.md)
 
 ## Node
 
