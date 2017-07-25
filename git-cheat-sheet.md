@@ -1,6 +1,9 @@
 # Links
 
 [Oh shit, git! (external website)](http://ohshitgit.com/)
+[git mergetool](https://gist.github.com/karenyyng/f19ff75c60f18b4b8149)
+[merge conflicts](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts)
+[git reset](https://git-scm.com/blog)
 
 # Configuring Proxies
 
