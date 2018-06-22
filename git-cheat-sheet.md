@@ -20,8 +20,12 @@
   `git config --unset --global http.proxy`
 
   `git config --unset --global https.proxy`
+  
+# Refresh Brancehs
 
-#  Branching
+  `git remote update origin --prune`
+
+# Branching
 
 Stash any current uncommitted changes that you want to keep.
 
