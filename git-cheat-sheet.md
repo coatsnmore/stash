@@ -21,7 +21,7 @@
 
   `git config --unset --global https.proxy`
   
-# Refresh Brancehs
+# Refresh Branches
 
   `git remote update origin --prune`
 
