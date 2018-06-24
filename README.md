@@ -1,21 +1,38 @@
-# stash
-Stash for all things interesting.
+Stash for all things I consider interesting.
+===
+* [Useful tools](#useful-tools)
+* [Configuration Management](#configuration-management)
+* [Containers](#containers)
+* [NodeJS](#nodejs)
+* [Angular](#angular)
+* [Big Data & Streaming](#big-data-&-streaming)
 
-## [***Git Cheat Sheet***](git-cheat-sheet.md)
+# Useful Tools
 
-# Links
+[HTTP Bin](http://httpbin.org/#/) is a useful website that provides a live service to return standard responses for specific HTTP requests.  HTTP Bin has recently updated its look and provides a Docker image so you can run their service in your own Docker environment.
 
-## Node
+```bash
+docker run -p 80:80 kennethreitz/httpbin
+```
 
-* [Node Style Guide](http://nodeguide.com/style.html)
+# Configuration Management
 
-## Angular
+[*Git Cheat Sheet*](git-cheat-sheet.md) is a collection of what I consider useful git commands.
 
-* [Learn Angular](https://angular.io/docs/ts/latest/guide/learning-angular.html)
-* [Angular Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html)
+# Containers
 
+This [Docker vs LXC (Linux Containers) article](https://www.upguard.com/articles/docker-vs-lxc) describes the difference between Linux Containers and Linux Environments, and then the difference Linux Containers and Docker.
 
-## Big Data & Streaming
+# NodeJS
 
-* [Developing Real-Time Data Pipelines with Apache Kafka](https://www.youtube.com/watch?v=GRPLRONVDWY)
-* [Hadoop - Just the Basics for Big Data Rookies](https://www.youtube.com/watch?v=xYnS9PQRXTg)
+My current favorite [Node Style Guide.](http://nodeguide.com/style.html)
+
+# Angular
+
+[Learn Angular](https://angular.io/docs/ts/latest/guide/learning-angular.html) and then read the [Angular Style Guide.](https://angular.io/docs/ts/latest/guide/style-guide.html)
+
+# Big Data & Streaming
+
+This Youtube video focuses on hwo to [develop real-time data pipelines with Apache Kafka.](https://www.youtube.com/watch?v=GRPLRONVDWY)
+
+Check out the basics of [Hadoop.](https://www.youtube.com/watch?v=xYnS9PQRXTg)
